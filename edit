@@ -1,5 +1,5 @@
 #! /usr/bin/env -S es-shell
 
 $EDITOR parser.scm
-time ./parse.scm > results;
+time ./parser.scm > results;
 echo
